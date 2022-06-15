@@ -19,15 +19,17 @@ This is a solution to the ZURIXI4G Training task.
 ## Screenshot
 FLEXBOX-PAGE
 
-![](flexpage.png)
+
+![flexpage](https://user-images.githubusercontent.com/81003701/173706616-2f9d2440-e50f-450d-8a63-7e31a7166e0a.png)
 
 GRID-PAGE
 
-![](gridpage.png)
+
+![gridpage](https://user-images.githubusercontent.com/81003701/173706655-03ac183d-5e87-4bf4-bcab-d7b277661814.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
