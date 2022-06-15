@@ -25,7 +25,8 @@ FLEXBOX-PAGE
 GRID-PAGE
 
 
-![gridpage](https://user-images.githubusercontent.com/81003701/173706655-03ac183d-5e87-4bf4-bcab-d7b277661814.png)
+
+![gridpage](https://user-images.githubusercontent.com/81003701/173790448-f9f7e3f5-8b1e-4af5-8dc9-ef08a3a1a745.png)
 
 
 ### Links
