@@ -42,6 +42,7 @@ GRID-PAGE
 - CSS Grid.
 - Google fonts.
 - Media queries.
+- Mobile-first workflow for grid layout
 
 
 ### What I learned
